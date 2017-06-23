@@ -1,6 +1,15 @@
 # MATLAB-light-relay
 A student project for ENGR114 at Portland Community College. Uses MATLAB connected to an Arudino over serial to control a relay that swithes a light on and off..
 
+## Problem Statement
+The objective was to find a way to turn a light on and off by using the Arduino micro controller
+and interfacing the Arduino software with Mat lab. We set out to have a user input HIGH or LOW
+inputs into mat lab which would be read by the Arduino software and subsequently run a current
+through the relay to operate the light. Additionally, our mat lab code tracks the amount of time
+the light is on per on/off cycle while the mat lab program is running and when the user closes
+the serial port through mat lab a bar chart is shown of the time per on/off iteration the light was
+on.
+
 ## Hardware Setup
 ### Assembly of Light Relay Components :
 
