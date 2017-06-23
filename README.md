@@ -24,7 +24,6 @@ and solder all components in place.
 
 ![alt text](/doc/light_relay2.jpg "Logo Title Text 1")
 
-
 **Step 3:** Temporarily install stand-offs on the red board and relay board; add a small drop of super glue then position inside box with outlets towards previously made cut-outs.
 
 **Step 4:** Feed the power cables inside the box. Connect the two white wires together and the two ground wires together. Then feed the two black wires in the blue terminal block of the relay into the two right-hand most slots (order depends on the code order).
@@ -40,3 +39,22 @@ Image from : https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-
 **Step 6:** Tuck in all loose wires and create a loop in the power cord and secure with zip ties to provide strain relief.
 
 **Step 7:** Screw on lid to complete.
+
+## Future Work
+Unfortunately, I was unable to figure out a way to depict an animated plot in mat lab of an on/off
+light cycle, but my hope is that by tracking the time the light remain on that the overall objective
+of having a light source for an aquaponics system that can be controlled remotely and tracks
+light data is met. So long as the broad objective relative to the rest of the project is
+accomplished, the most valuable improvement to the aquaponics system would be to work to
+further automate our component and interface with the light sensor team. Future endeavors
+should be made to first automate the day/night cycle for the fish and plants, ideally, the
+day/night cycle should mimic a natural cycle that based off the summer/winter solstice. In other
+words, the day night cycle needs to increase amount of light leading up to the summer
+solstice(maximum light time allowed on this day) and decrease leading up to the
+winter(minimum light time allowed).
+Additionally, the light relay team could also read data statements from the light sensor team and
+write logic statements in the mat lab code such that the aquaponics light will turn off should the
+ambient amount of light present in the area of operations be great enough. This hypothetical
+feature for the system would greatly reduce the chance for over-exposure in the system and
+potentially reduce algae growth.
+
