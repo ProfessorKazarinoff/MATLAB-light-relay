@@ -13,7 +13,8 @@ and solder all components in place.
 
 Step 2: Prepare the box by drilling two holes on either end for the power cord. Also cut out two access holes for the USB and adapter cables.
 
-image2 
+![alt text](/doc/light_relay2.jpg "Logo Title Text 1")
+
 
 Step 3: Temporarily install stand-offs on the red board and relay board; add a small drop of super glue then position inside box with outlets towards previously made cut-outs.
 
