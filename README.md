@@ -8,7 +8,8 @@ Step 1: Lay out all the components on the relay board following the instruction 
 https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-guide?_ga=2.126438346.678827907.1495830299-657127905.1456517273
 and solder all components in place. 
 
-image1
+![image1](/doc/image1rev1.jpg "Title Text 1")
+
 
 Step 2: Prepare the box by drilling two holes on either end for the power cord. Also cut out two access holes for the USB and adapter cables.
 
