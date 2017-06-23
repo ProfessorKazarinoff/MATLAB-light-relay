@@ -8,7 +8,7 @@ A student project for ENGR114 at Portland Community College. Uses MATLAB connect
 https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-guide?_ga=2.126438346.678827907.1495830299-657127905.1456517273
 and solder all components in place. 
 
-![image1](/doc/light_relay1rev1.jpg "Title Text 1")
+![image1](/doc/light_relay1rev2.jpg "Title Text 1")
 
 
 **Step 2:** Prepare the box by drilling two holes on either end for the power cord. Also cut out two access holes for the USB and adapter cables.
@@ -24,7 +24,7 @@ and solder all components in place.
 
 **Step 5:** Connect the three jumper cables as shown below:
 
-![alt text](/doc/light_relay4.jpg "Logo Title Text 1")
+![alt text](/doc/light_relay4.png "Logo Title Text 1")
 
 Image from : https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-guide?_ga=2.126438346.678827907.1495830299-657127905.1456517273; (6/2/2017)
 
