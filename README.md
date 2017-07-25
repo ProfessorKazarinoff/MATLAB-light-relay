@@ -40,7 +40,7 @@ Image from : https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-
 
 **Step 7:** Screw on lid to complete.
 
-## Results'
+## Results
 ![alt text](/doc/results.png "Logo Title Text 1")
 
 ## Future Work
