@@ -1,5 +1,5 @@
 # MATLAB-light-relay
-A student project for ENGR114 at Portland Community College. Uses MATLAB connected to an Arudino over serial to control a relay that swithes a light on and off..
+A student project for ENGR114 at Portland Community College. Uses MATLAB connected to an Arudino over serial to control a relay that swithes a light on and off.
 
 ## Problem Statement
 The objective was to find a way to turn a light on and off by using the Arduino micro controller
