@@ -40,6 +40,9 @@ Image from : https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-
 
 **Step 7:** Screw on lid to complete.
 
+## Results'
+![alt text](/doc/results.png "Logo Title Text 1")
+
 ## Future Work
 Unfortunately, I was unable to figure out a way to depict an animated plot in mat lab of an on/off
 light cycle, but my hope is that by tracking the time the light remain on that the overall objective
