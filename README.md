@@ -40,6 +40,14 @@ Image from : https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-
 
 **Step 7:** Screw on lid to complete.
 
+## Arduino Code
+
+The [light_relay.ino](light_relay.ino) sketch was uploaded on the Arduino using the Arduino IDE.
+
+## MATLAB Code
+
+The [light_relay.m](light_relay.m) script was run in MATLAB.
+
 ## Results
 ![alt text](/doc/results.png "Logo Title Text 1")
 
