@@ -32,9 +32,7 @@ and solder all components in place.
 
 **Step 5:** Connect the three jumper cables as shown below:
 
-![alt text](/doc/light_relay4.png "Logo Title Text 1")
-
-Image from : https://learn.sparkfun.com/tutorials/beefcake-relay-control-hookup-guide?_ga=2.126438346.678827907.1495830299-657127905.1456517273; (6/2/2017)
+![alt text](/doc/fritzing_light_relay.png "Logo Title Text 1")
 
 **Step 6:** Tuck in all loose wires and create a loop in the power cord and secure with zip ties to provide strain relief.
 
