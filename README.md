@@ -30,7 +30,7 @@ and solder all components in place.
 
 ![alt text](/doc/light_relay3.jpg "Logo Title Text 1")
 
-**Step 5:** Connect the three jumper cables as shown below:
+**Step 5:** Connect the three low voltage jumper wires as shown below:
 
 ![alt text](/doc/fritzing_light_relay.png "Logo Title Text 1")
 
