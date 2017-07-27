@@ -26,11 +26,11 @@ and solder all components in place.
 
 **Step 3:** Temporarily install stand-offs on the red board and relay board; add a small drop of super glue then position inside box with outlets towards previously made cut-outs.
 
-**Step 4:** Feed the power cables inside the box. Connect the two white wires together and the two ground wires together. Then feed the two black wires in the blue terminal block of the relay into the two right-hand most slots (order depends on the code order).
+**Step 4:** Feed the power cables inside the box. Connect the two white (neutral) wires together and the two green (ground) wires together with wire nuts. Then feed the two black (hot) wires in the blue terminal block (high voltage side) of the relay into the two right-hand most slots (order depends on the code order).
 
 ![alt text](/doc/light_relay3.jpg "Logo Title Text 1")
 
-**Step 5:** Connect the three low voltage jumper wires as shown below:
+**Step 5:** Connect the three low voltage jumper wires between the Arduino and relay (low voltage side) as shown below:
 
 ![alt text](/doc/fritzing_light_relay.png "Logo Title Text 1")
 
