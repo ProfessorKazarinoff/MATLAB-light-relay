@@ -11,6 +11,20 @@ the serial port through mat lab a bar chart is shown of the time per on/off iter
 on.
 
 ## Hardware Setup
+
+### Bill of Materials
+|component|vendor|
+|---|---|
+|Arduino|[SparkFun RedBoard - Programmed with Arduino](https://www.sparkfun.com/products/13975)|
+|Relay|[SparkFun Beefcake Relay Control Kit (Ver. 2.0)](https://www.sparkfun.com/products/13815)|
+|Jumper wires|[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431 )|
+|Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
+|Enclosure|[Big Red Box - Enclosure](https://www.sparkfun.com/products/11366)|
+|extension cord male end||Recieved from the PCC Engineering Lab|
+|extension cord femail end|Recieved from PCC Engineering Lab|
+|Wire Nuts|Recied from PCC Engineering Lab|
+|Standoffs|[Black Nylon Screw and Stand-off Set – M2.5 Thread](https://www.adafruit.com/product/3299)|
+
 ### Assembly of Light Relay Components :
 
 **Step 1:** Lay out all the components on the relay board following the instruction from 
@@ -26,7 +40,7 @@ and solder all components in place.
 
 **Step 3:** Temporarily install stand-offs on the red board and relay board; add a small drop of super glue then position inside box with outlets towards previously made cut-outs.
 
-**Step 4:** Feed the power cables inside the box. Connect the two white (neutral) wires together and the two green (ground) wires together with wire nuts. Then feed the two black (hot) wires in the blue terminal block (high voltage side) of the relay into the two right-hand most slots (order depends on the code order).
+**Step 4:** Feed the power cables inside the box. Connect the two white (neutral) wires together and the two green (ground) wires together with wire nuts. Then feed the two black (hot) wires into the blue terminal block (high voltage side) of the relay into the two right-hand most slots (order depends on the code order, but CO - common and NO - normally open are the best options).
 
 ![alt text](/doc/light_relay3.jpg "Logo Title Text 1")
 
