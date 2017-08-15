@@ -22,7 +22,7 @@ on.
 |Enclosure|[Big Red Box - Enclosure](https://www.sparkfun.com/products/11366)|
 |extension cord male end||Recieved from the PCC Engineering Lab|
 |extension cord femail end|Recieved from PCC Engineering Lab|
-|Wire Nuts|Recied from PCC Engineering Lab|
+|Wire Nuts|Recieved from PCC Engineering Lab|
 |Standoffs|[Black Nylon Screw and Stand-off Set – M2.5 Thread](https://www.adafruit.com/product/3299)|
 
 ### Assembly of Light Relay Components :
