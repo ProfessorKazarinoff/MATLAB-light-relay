@@ -20,8 +20,9 @@ on.
 |Jumper wires|[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431 )|
 |Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
 |Enclosure|[Big Red Box - Enclosure](https://www.sparkfun.com/products/11366)|
-|extension cord male end||Recieved from the PCC Engineering Lab|
-|extension cord femail end|Recieved from PCC Engineering Lab|
+|extension cord male end|Recieved from PCC Engineering Lab|
+|extension cord female end|Recieved from PCC Engineering Lab|
+|zip ties for strain relief|Recieved from PCC Engineering Lab|
 |Wire Nuts|Recieved from PCC Engineering Lab|
 |Standoffs|[Black Nylon Screw and Stand-off Set – M2.5 Thread](https://www.adafruit.com/product/3299)|
 
@@ -44,7 +45,7 @@ and solder all components in place.
 
 ![alt text](/doc/light_relay3.jpg "Logo Title Text 1")
 
-**Step 5:** Connect the three low voltage jumper wires between the Arduino and relay (low voltage side) as shown below:
+**Step 5:** Connect the three low voltage jumper wires between the Arduino and relay (low voltage side) as shown below: 5V to 5V, GND to GND and CTRL to Pin13.
 
 ![alt text](/doc/fritzing_light_relay.png "Logo Title Text 1")
 
