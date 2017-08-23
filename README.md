@@ -82,3 +82,5 @@ ambient amount of light present in the area of operations be great enough. This 
 feature for the system would greatly reduce the chance for over-exposure in the system and
 potentially reduce algae growth.
 
+## License
+GNU General Public License v3.0
